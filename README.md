@@ -1,5 +1,5 @@
 # myTalk
-Chat Client between two users on Linux server
+Chat Client between two users on Linux server based in C 
 
 To run:
   Server Side:
